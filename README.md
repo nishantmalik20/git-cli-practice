@@ -19,6 +19,6 @@ Answer: git log --oneline -n 3
 
 6.	Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.  
 Answer: git fetch  
-	  git status
+	  git status  
 
 
